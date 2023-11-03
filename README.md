@@ -2,16 +2,18 @@
 
 <div align="center">
 <figure>
-<img src="./src/main/resources/icons/cairo.svg" />
-<figcaption>Pyramid Emoji by Niklas Kuntz. From <a href="https://openmoji.org/library/emoji-E20F/">OpenMoji</a>.</figcaption>
+<img src="./src/main/resources/icons/cairo.svg" width="400">
 </figure>
+<br>
 </div>
-
-> 🚧 This was made for my own pressing need as a JetBrains user and budding Cairo programmer. I'm not an expert JetBrains plugin developer nor Kotlin programmer. That was a lot of words to say "this plugin kinda sorta works".
 
 ![GitHub](https://img.shields.io/github/license/kahondev/cairo-jetbrains)
 
-The Cairo language plugin for JetBrains products. This uses the Cairo uses the [Cairo Language Server](https://github.com/starkware-libs/cairo/blob/main/vscode-cairo/README.md#install-the-cairo-language-server).
+> 🚧 This was made for my own pressing need as a JetBrains user and budding Cairo programmer. I'm not an expert JetBrains plugin developer nor Kotlin programmer. That was a lot of words to say "this plugin kinda sorta works".
+
+The Cairo language plugin for JetBrains products. This uses the [Cairo Language Server](https://github.com/starkware-libs/cairo/blob/main/vscode-cairo/README.md#install-the-cairo-language-server).
+
+*Pyramid Emoji by Niklas Kuntz. From [OpenMoji](https://openmoji.org/library/emoji-E20F/).*
 
 ## Requirements
 
